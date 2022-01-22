@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/desktop/CLionProjects/hourglass/hourglass.cpp
+hourglass.h
+C:/Users/desktop/CLionProjects/hourglass/hourglass.h
+
+C:/Users/desktop/CLionProjects/hourglass/hourglass.h
+
+C:/Users/desktop/CLionProjects/hourglass/main.cpp
+iostream
+-
+hourglass.cpp
+C:/Users/desktop/CLionProjects/hourglass/hourglass.cpp
+

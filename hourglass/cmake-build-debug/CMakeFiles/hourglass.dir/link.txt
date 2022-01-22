@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hourglass.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\hourglass.dir/objects.a @CMakeFiles\hourglass.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\hourglass.dir/objects.a -Wl,--no-whole-archive -o hourglass.exe -Wl,--out-implib,libhourglass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hourglass.dir\linklibs.rsp
